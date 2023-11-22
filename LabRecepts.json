@@ -2,6 +2,19 @@
     "lab_recepts": [
         {
             "PRODUCT": "BARBAA",
+            "COLOR": 500,
+            "ADHESIVES": "ORGAL",
+            "ORGAL 83": 525,
+            "ORGAL 360": 525,
+            "MEG": 50,
+            "TS": 7.5,
+            "CAT": 15,
+            "M520": 35,
+            "AMONIA": 6,
+            "STEARAT": 24
+        },
+        {
+            "PRODUCT": "BARBAA",
             "COLOR": 2,
             "ADHESIVES": "ORGAL",
             "ORGAL 83": 525,
