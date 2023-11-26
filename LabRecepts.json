@@ -4841,12 +4841,12 @@
             "M520": 10,
             "AMONIA": 5,
             "STEARAT": 26,
-            "COLOR1": "RED 130",
-            "GRAM1": 26,
-            "COLOR2": "YELLOW 920",
-            "GRAM2": 3050,
+            "COLOR1": "AVCO RED XBN",
+            "GRAM1": 28.8,
+            "COLOR2": "AVCO YELLOW R",
+            "GRAM2": 132,
             "COLOR3": "AVCO BLACK",
-            "GRAM3": 200
+            "GRAM3": 184.8
         },
         {
             "PRODUCT": "Z/L ROYAL",
